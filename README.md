@@ -8,7 +8,7 @@ To run this project, you will need:
 -Empty file csv 
 
 Step1: Clone project
-Cloning the project into your local using this command: git clone 
+Cloning the project into your local using this command: git clone https://github.com/AsmaeER/Chat-Gpt-Service.git
 
 Step2: Change the location of the csv file in code 
 Go to com.api.services -> ChatGptServiceImp.java , for the two methods getChatAnswer() and getChatQuestion() where we append into csv, change the location with the empty csv file that you created before .
