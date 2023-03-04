@@ -1,7 +1,7 @@
 This project is a Java microservice that communicates with ChatGPT AI via an exposed endpoint. The microservice updates a "database" in the system with questions sent to ChatGPT and their corresponding answers received through the API. The objective of this project is to create a microservice that queries the ChatGPT API using input strings provided by the user, appends the questions and answers to a CSV file, and responds to the user with the answer provided by ChatGPT.
 
 To run this project, you will need:
--Java: 17 
+-Java: 17 \n
 -Spring Boot: 3
 -Docker
 -Eclipse for spring boot (u can download it from this https://spring.io/tools)
